@@ -8,6 +8,7 @@
 <h2>Certification</h2>
 
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/JamieKim/responsive-web-design)
+- [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/JamieKim/javascript-algorithms-and-data-structures)
 
 <h2> Volunteer Work</h2>
 
