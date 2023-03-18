@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Front-end Web App</b>
-  - [Currency Ticker with Light/Dark Mode](https://)
+  - [Currency Ticker with Light/Dark Mode](https://main--singular-salmiakki-a6c94d.netlify.app/)
 
 <h2>Certification</h2>
 
