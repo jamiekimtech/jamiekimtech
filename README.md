@@ -9,6 +9,7 @@
 
 - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/JamieKim/responsive-web-design)
 - [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/JamieKim/javascript-algorithms-and-data-structures)
+- [Coursera Meta React Basics](https://www.coursera.org/account/accomplishments/certificate/WUEBFJ9GUJH3)
 
 <h2> Volunteer Work</h2>
 
