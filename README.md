@@ -1,9 +1,10 @@
-<h1>Hi, I'm Jamie from Seoul <br/><a href="">Programmer</a> & <a href="">Graphic Designer</a>
+<h1>Hi, I'm Jamie from Seoul <br/>Programmer & Graphic Designer
 
 <h2>Software Development Projects:</h2>
 
-- <b>Front-end Web App</b>
+- <b>Front-end Web Apps</b>
   - [Currency Ticker with Light/Dark Mode](https://main--singular-salmiakki-a6c94d.netlify.app/)
+  - [Portfolio Website](https://github.com/jamiekimtech/Website)
 
 <h2>Certification</h2>
 
@@ -15,7 +16,7 @@
 
 <h2> Volunteer Work</h2>
 
-- [freeCodeCamp Korean Translator](https://)
+- [freeCodeCamp Korean Translator](https://https://www.freecodecamp.org/)
 
 <h2>Connect with me:</h2>
 
