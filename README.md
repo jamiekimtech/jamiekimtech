@@ -3,8 +3,9 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Front-end Web Apps</b>
-  - [Currency Ticker with Light/Dark Mode](https://main--singular-salmiakki-a6c94d.netlify.app/)
-  - [Portfolio Website](https://jamie-kim-portfolio.vercel.app/)
+  - [Portfolio Website](https://jamie-kim-portfolio.vercel.app/) with React & MUI
+  - [Currency Ticker with Light/Dark Mode](https://main--singular-salmiakki-a6c94d.netlify.app/) with JS ES6 Modules
+  
 
 <h2>Certification</h2>
 
