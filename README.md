@@ -4,7 +4,7 @@
 
 - <b>Front-end Web Apps</b>
   - [Currency Ticker with Light/Dark Mode](https://main--singular-salmiakki-a6c94d.netlify.app/)
-  - [Portfolio Website](https://github.com/jamiekimtech/Website)
+  - [Portfolio Website](https://jamie-kim-portfolio.vercel.app/)
 
 <h2>Certification</h2>
 
