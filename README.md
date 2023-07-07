@@ -1,5 +1,17 @@
-<h1>Hi, I'm Jamie from Seoul <br/>Programmer & Graphic Designer
+<h1>🚀Programmer & Graphic Designer🌟</h1>
 
+
+
+💪Self-Taught Full-Stack Developer<br/>
+🏥Former Pharmacy Owner in Seoul, Korea<br/>
+🎨Graphic Designer in the US<br/>
+🖥Career Transition<br/>
+
+I've built projects using React, Node.js, JavaScript, Svelte and more. I also love leveraging shiny new AI tools.
+
+👥 Open to on-site jobs in Grand Rapids and Detroit<br/>
+💻 Remote work is also welcomed
+</p>
 <h2>Software Development Projects:</h2>
 
 - <b>Front-end Web Apps</b>
