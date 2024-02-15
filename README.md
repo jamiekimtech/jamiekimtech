@@ -7,7 +7,7 @@
 🎨Front-end Dev in the US<br/>
 🖥Self-taught, Shooting for Full-Stack!<br/>
 
-I've been working as a font-end developer since August 2023 & loving it. <br />
+I've been working as a font-end developer since August 2023 & loving being a part of the tech industry. <br />
 I've built projects using React, Node.js, JavaScript, Svelte and more. I also love leveraging shiny new AI tools.
 
 👥 Open to on-site jobs in Detroit<br/>
