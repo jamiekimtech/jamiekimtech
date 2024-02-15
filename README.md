@@ -1,15 +1,16 @@
-<h1>🚀Programmer & Graphic Designer🌟</h1>
+<h1>Front-end Programmer & Graphic Designer🌟</h1>
 
 
 
-💪Self-Taught Full-Stack Developer<br/>
+💪Junior Front-end Developer<br/>
 🏥Former Pharmacy Owner in Seoul, Korea<br/>
-🎨Graphic Designer in the US<br/>
-🖥Career Transition<br/>
+🎨Front-end Dev in the US<br/>
+🖥Self-taught, Shooting for Full-Stack!<br/>
 
+I've been working as a font-end developer since August 2023 & loving it. <br />
 I've built projects using React, Node.js, JavaScript, Svelte and more. I also love leveraging shiny new AI tools.
 
-👥 Open to on-site jobs in Grand Rapids and Detroit<br/>
+👥 Open to on-site jobs in Detroit<br/>
 💻 Remote work is also welcomed
 </p>
 <h2>Software Development Projects:</h2>
@@ -34,8 +35,7 @@ I've built projects using React, Node.js, JavaScript, Svelte and more. I also lo
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JamieKim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JamieKim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/jamiekimtech313
+
 [linkedin]: https://www.linkedin.com/in/jamie-kim-6924ba251/
