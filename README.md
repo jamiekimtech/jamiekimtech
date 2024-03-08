@@ -10,10 +10,14 @@
 I've been working as a font-end developer since August 2023 & loving being a part of the tech industry. <br />
 I've built projects using React, Node.js, JavaScript, Svelte and more. I also love leveraging shiny new AI tools.
 
-👥 Open to on-site jobs in Detroit<br/>
+👥 Open to on-site/hybrid jobs in Detroit<br/>
 💻 Remote work is also welcomed
 </p>
 <h2>Software Development Projects:</h2>
+
+- <b>Commercial Websites</b>
+  - [Company Website for InZernet Technologies (IZT)](https://izt.one/) with Sveltekit, Docker, Webflow
+  - [CMS Product Showcasing Website](https://manage.izt.app/) with Sveltekit, Docker, Tailwind CSS
 
 - <b>Front-end Web Apps</b>
   - [Portfolio Website](https://jamie-kim-portfolio.vercel.app/) with React & MUI
